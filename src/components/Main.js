@@ -49,8 +49,8 @@ const Father = styled.section`
   .list-wrapper {
     display: inline-flex;
     margin-top: 14px;
-    margin-left: 193px;
-    width: 261px;
+    margin-left: 137px;
+    width: 97.5%;
     height: 377px;
     background: #f1f1f1;
     .list-group-item {
